@@ -45,5 +45,5 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 
 ## Page Screenshot
 
-Hero Section
+### Hero Section
 <img width="1920" height="913" alt="university bootstrap landing page example" src="https://github.com/user-attachments/assets/c91eb373-0251-4ca4-9b7b-eb09e5f37d61" />
