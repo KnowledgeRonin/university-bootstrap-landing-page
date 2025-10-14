@@ -1,11 +1,11 @@
 # University Bootstrap Landing Page
 
 ## Description
+
 Simple university landing page template, created with HTML, CSS, JavaScript, and Bootstrap 4. Designed to be easily adaptable to your personal or commercial projects. Created from an application test for a front-end position.
 
----
-
 ## Features
+
 - **Responsive design**
 - **Sections:** Hero, Courses, About, Benefits, Careers, Team, Reviews
 - **Sticky header** that changes when scrolling
@@ -16,9 +16,8 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 - **Modal** for playing video testimonials
 - **Semantic, modular structure:** `css/`, `js/`, `assets/`
 
----
-
 ## Languages and Utilities Used
+
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
@@ -27,13 +26,9 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 - **Font Awesome** (CDN)
 - **Google Fonts — _Poppins_**
 
----
-
-
 ## Environment Used
-- **Visual Studio Code**
 
----
+- **Visual Studio Code**
 
 ## Installation
 
@@ -51,4 +46,6 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 
 
 ## Page Screenshot
+
 Hero Section
+<img width="1920" height="913" alt="university bootstrap landing page example" src="https://github.com/user-attachments/assets/c91eb373-0251-4ca4-9b7b-eb09e5f37d61" />
