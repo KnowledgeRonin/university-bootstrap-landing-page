@@ -35,6 +35,8 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 
 ## Installation
 
+You can either **clone the repository** or **download the ZIP file** from the [Releases section](https://github.com/KnowledgeRonin/university-bootstrap-landing-page/releases).
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/KnowledgeRonin/university-bootstrap-landing-page.git
