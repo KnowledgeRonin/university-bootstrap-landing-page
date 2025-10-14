@@ -28,6 +28,11 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 
 - **Visual Studio Code**
 
+## Page Screenshot
+
+### Hero Section
+<img width="1920" height="913" alt="university bootstrap landing page example" src="https://github.com/user-attachments/assets/c91eb373-0251-4ca4-9b7b-eb09e5f37d61" />
+
 ## Installation
 
 1. Clone the repository:
@@ -42,8 +47,6 @@ Simple university landing page template, created with HTML, CSS, JavaScript, and
 
 3. Open `index.html` in your browser to view the landing page.
 
+## License
 
-## Page Screenshot
-
-### Hero Section
-<img width="1920" height="913" alt="university bootstrap landing page example" src="https://github.com/user-attachments/assets/c91eb373-0251-4ca4-9b7b-eb09e5f37d61" />
+[MIT License](LICENSE)
