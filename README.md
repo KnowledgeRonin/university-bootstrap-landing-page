@@ -2,6 +2,10 @@
 
 Simple university landing page template, created with HTML, CSS, JavaScript, and Bootstrap 4. Designed to be easily adaptable to your personal or commercial projects. Created from an application test for a front-end position.
 
+## Watch the Project Live
+
+**[🌐 VISIT LANDING PAGE: University Bootstrap Demo](https://knowledgeronin.github.io/university-bootstrap-landing-page/)**
+
 ## Features
 
 - **Responsive design**
