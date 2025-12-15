@@ -1,36 +1,62 @@
 # University Bootstrap Landing Page
 
-Simple university landing page template, created with HTML, CSS, JavaScript, and Bootstrap 4. Designed to be easily adaptable to your personal or commercial projects. Created from an application test for a front-end position.
+A production-ready, responsive marketing landing page built with HTML, CSS, JavaScript, and Bootstrap 4, designed to simulate a real-world delivery scenario under time constraints.
+
+This project was created as part of a front-end application test, with a strong focus on layout structure, responsiveness, usability, and clean UI implementation, rather than complex business logic.
 
 ## Watch the Project Live
 
 **[🌐 VISIT LANDING PAGE: University Bootstrap Demo](https://knowledgeronin.github.io/university-bootstrap-landing-page/)**
 
-## Features
+## Project Goals
+- Translate a static concept into a fully responsive, deployable web page
+- Apply modern UI patterns using Bootstrap and custom CSS
+- Practice clean structure, semantic HTML, and visual hierarchy
+- Deliver a complete result under realistic time constraints
 
-- **Responsive design**
-- **Sections:** Hero, Courses, About, Benefits, Careers, Team, Reviews
-- **Sticky header** that changes when scrolling
-- **Smooth scroll** for internal navigation
-- **Hero section** with background video and overlay
-- **Registration form:** Name, Email, Phone, Subject, Message
-- **Carousels:** Team (mobile/desktop) and Reviews
-- **Modal** for playing video testimonials
-- **Semantic, modular structure:** `css/`, `js/`, `assets/`
+## Key Features
 
-## Languages and Utilities Used
+- Fully responsive design (mobile-first approach)
+- Structured sections: Hero, Courses, About, Benefits, Careers, Team, Reviews
+- Sticky header with scroll-based behavior
+- Smooth scrolling navigation
+- Hero section with background video and overlay
+- Registration form layout (UI-focused)
+- Carousels for team members and testimonials
+- Modal video playback for reviews
+- Modular and organized project structure `css/`, `js/`, `assets/`
 
-- **HTML5**
+## Technologies Used
+
+- **HTML5 (semantic markup)**
 - **CSS3**
 - **JavaScript (Vanilla)**
 - **Bootstrap 4.6**
-- **jQuery** (used by Bootstrap 4)
-- **Font Awesome** (CDN)
-- **Google Fonts — _Poppins_**
+- **jQuery** (Bootstrap dependency)
+- **Font Awesome**
+- **Google Fonts (Poppins)**
 
-## Environment Used
+## Development Environment
 
-- **Visual Studio Code**
+- Visual Studio Code
+- Git & GitHub
+- GitHub Pages (deployment)
+
+## What This Project Demonstrates
+
+- Ability to deliver a complete, production-style landing page
+- Strong understanding of responsive layouts and UI composition
+- Clean separation of structure, style, and behavior
+- Attention to detail and consistency across devices
+- Capability to work independently and close a project end-to-end
+
+## Potential Improvements (Next Steps)
+
+- Convert the project to React or Next.js
+- Integrate a CMS or backend for dynamic content
+- Improve SEO and accessibility
+- Optimize assets and performance
+- Add form validation and real submission handling
 
 ## Page Screenshot
 
